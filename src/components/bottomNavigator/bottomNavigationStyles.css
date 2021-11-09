@@ -1,0 +1,6 @@
+.test {
+    box-shadow: -2px -9px 54px 25px rgba(184,184,184,0.52);
+    -webkit-box-shadow: -2px -9px 54px 25px rgba(184,184,184,0.52);
+    -moz-box-shadow: -2px -9px 54px 25px rgba(184,184,184,0.52);
+    border: 2px solid #cecece;
+}
